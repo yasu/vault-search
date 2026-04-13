@@ -1,2 +1,15 @@
 *.bleve/
 /vault-search
+
+# Go
+*.test
+*.out
+coverage.*
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
